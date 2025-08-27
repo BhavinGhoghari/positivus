@@ -21,6 +21,6 @@ This project serves as a starter template for building responsive, scalable, and
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/my-app.git
-cd my-app
+git clone https://github.com/BhavinGhoghari/positivus.git
+cd positivus
 npm install
